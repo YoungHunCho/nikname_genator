@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/younghuncho/nikname_genator/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/younghuncho/nikname_genator/static/js/main.0fa53765.chunk.js",
-    "main.js.map": "/younghuncho/nikname_genator/static/js/main.0fa53765.chunk.js.map",
-    "runtime-main.js": "/younghuncho/nikname_genator/static/js/runtime-main.f5d0095f.js",
-    "runtime-main.js.map": "/younghuncho/nikname_genator/static/js/runtime-main.f5d0095f.js.map",
-    "static/js/2.63682b64.chunk.js": "/younghuncho/nikname_genator/static/js/2.63682b64.chunk.js",
-    "static/js/2.63682b64.chunk.js.map": "/younghuncho/nikname_genator/static/js/2.63682b64.chunk.js.map",
-    "static/js/3.faf4c480.chunk.js": "/younghuncho/nikname_genator/static/js/3.faf4c480.chunk.js",
-    "static/js/3.faf4c480.chunk.js.map": "/younghuncho/nikname_genator/static/js/3.faf4c480.chunk.js.map",
-    "index.html": "/younghuncho/nikname_genator/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/younghuncho/nikname_genator/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.63682b64.chunk.js.LICENSE.txt": "/younghuncho/nikname_genator/static/js/2.63682b64.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/younghuncho/nikname_genator/static/media/logo.103b5fa1.svg"
+    "main.css": "/nikname_genator/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/nikname_genator/static/js/main.0fa53765.chunk.js",
+    "main.js.map": "/nikname_genator/static/js/main.0fa53765.chunk.js.map",
+    "runtime-main.js": "/nikname_genator/static/js/runtime-main.bbe38262.js",
+    "runtime-main.js.map": "/nikname_genator/static/js/runtime-main.bbe38262.js.map",
+    "static/js/2.63682b64.chunk.js": "/nikname_genator/static/js/2.63682b64.chunk.js",
+    "static/js/2.63682b64.chunk.js.map": "/nikname_genator/static/js/2.63682b64.chunk.js.map",
+    "static/js/3.faf4c480.chunk.js": "/nikname_genator/static/js/3.faf4c480.chunk.js",
+    "static/js/3.faf4c480.chunk.js.map": "/nikname_genator/static/js/3.faf4c480.chunk.js.map",
+    "index.html": "/nikname_genator/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/nikname_genator/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.63682b64.chunk.js.LICENSE.txt": "/nikname_genator/static/js/2.63682b64.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/nikname_genator/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f5d0095f.js",
+    "static/js/runtime-main.bbe38262.js",
     "static/js/2.63682b64.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
     "static/js/main.0fa53765.chunk.js"
